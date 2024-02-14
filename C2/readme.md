@@ -127,15 +127,48 @@ Learning Objectives
     Describe how to connect a Watson Studio account and publish a notebook in GitHub.
 
 ## Data Science Tools
+[Open Source Tools for Data Science](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0130EN-SkillsNetwork/storyline/Open%20Source%20Tools/story.html?origin=www.coursera.org)
 
-### Data Science categories
-#### Execution Environments
-#### Data Asset Management
-- Data Management
-- Data Integration and Transformation (ETL)
-- Data Visualization
+### Data Science Task Categories
+- Data Management: MySQL, Postgress, mongoDB, CouchDB, Cassandra, Handoop, Ceph, ElasticSearch,...
+- Data Integration and Transformation (ETL): Aphace Kafka, Apache Airflow, Kubeflow, Aphace Spark SQL, Aphace Nifi, NodeRED,...
+- Data Visualization: PixelDust, HUE, Kibana, Superset,...
 - Model Bulding
-- Model Deployment
-- Model Monitoring and Assessment
-#### Code Asset Management
-#### Development Environments
+- Model Deployment: PredictionIO, SelDon, mleap, Tensorflow-Serving, Tensorflow-Lite, Tensorflow.JS,...
+- Model Monitoring and Assessment: ModelDB, Prometheus,...
+
+### Data Science Task supported by
+- Execution Environments: ApacheSpark, ApacheFlink, 
+- Data Asset Management: ApacheAtlas, EGERIA, Kylo,...
+- Code Asset Management: Git, GitLab, GitHub, Bitbucket,...
+- Development Environments (IDEs): Jupyter Notebook, JypyterLab, ApacheZeppelin, RStudio, Spyder,...
+
+## Languages of Data Science
+
+You should select a language to learn depending on your needs, the problems you are trying to solve, and whom you are solving them for.
+
+The popular languages are Python, R, SQL, Scala, Java, C++, and Julia.
+
+For data science, you can use Python's scientific computing libraries like Pandas, NumPy, SciPy, and Matplotlib. 
+
+Python can also be used for Natural Language Processing (NLP) using the Natural Language Toolkit (NLTK). 
+
+Python is open source, and R is free software. 
+
+R language’s array-oriented syntax makes it easier to translate from math to code for learners with no or minimal programming background.
+
+SQL is different from other software development languages because it is a non-procedural language.
+
+SQL was designed for managing data in relational databases. 
+
+If you learn SQL and use it with one database, you can apply your SQL knowledge with many other databases easily.
+
+Data science tools built with Java include Weka, Java-ML, Apache MLlib, and Deeplearning4.
+
+For data science, popular program built with Scala is Apache Spark which includes Shark, MLlib, GraphX, and Spark Streaming.
+
+Programs built for Data Science with JavaScript include TensorFlow.js and R-js.
+
+One great application of Julia for Data Science is JuliaDB.
+
+## Libraries APIs, Datasets and Models
