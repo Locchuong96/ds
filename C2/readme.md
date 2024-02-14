@@ -172,3 +172,123 @@ Programs built for Data Science with JavaScript include TensorFlow.js and R-js.
 One great application of Julia for Data Science is JuliaDB.
 
 ## Libraries APIs, Datasets and Models
+
+API is the part of the library you see while the library contains all the components of the program. 
+
+REST APIs allow you to communicate through the internet and take advantage of resources like storage, data, artificially intelligent algorithms, and much more.
+
+Open data is fundamental to Data Science.
+
+Community Data License Agreement makes it easier to share open data.
+
+The IBM Data Asset eXchange (DAX) site contains high-quality open data sets.
+
+DAX open data sets include tutorial notebooks that provide basic and advanced walk-throughs for developers.
+
+DAX notebooks open in Watson Studio.
+
+Machine learning (ML) uses algorithms – also known as “models” – to identify patterns in the data. 
+
+Types of ML are Supervised, Unsupervised, and Reinforcement. 
+
+Supervised learning comprises two types of models, regression and classification.
+
+Deep learning refers to a general set of models and techniques that loosely emulate the way the human brain solves a wide range of problems.
+
+The Model Asset eXchange is a free, open-source repository for ready-to-use and customizable deep-learning microservices.
+
+MAX model-serving microservices are built and distributed on GitHub as open-source Docker images.
+
+You can use Red Hat OpenShift, a Kubernetes platform, to automate deployment, scaling, and management of microservices.
+
+Ml-exchange.org has multiple predefined models.
+
+[Additional Sources of Datasets](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTA1RU4tU2tpbGxzTmV0d29yay9sYWJzL0xhYnNfVjQvQWRkaXRpb25hbF9Tb3VyY2VzX09mX0RhdGFTZXRhLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3MDQ1OX0.s6z0Yoy-xbMDOgN6pkJ9YthPUG96VrvpWOGrqTO8j54)
+
+[DAX](https://developer.ibm.com/exchanges/data/)
+
+[MAX](https://www.ml-exchange.org/models/)
+
+## Jupyter Notebook and JupyterLab
+
+Congratulations! You have completed this module. At this point in the course, you know:
+
+Jupyter Notebooks are used in Data Science for recording experiments and projects.
+
+Jupyter Lab is compatible with many files and Data Science languages.
+
+There are different ways to install and use Jupyter Notebooks.
+
+How to run, delete, and insert a code cell in Jupyter Notebooks.
+
+How to run multiple notebooks at the same time.
+
+How to present a notebook using a combination of Markdown and code cells.
+
+How to shut down your notebook sessions after you have completed your work on them.
+
+Jupyter implements a two-process model with a kernel and a client.
+
+The notebook server is responsible for saving and loading the notebooks.
+
+The kernel executes the cells of code contained in the Notebook. 
+
+The Jupyter architecture uses the NB convert tool to convert files to other formats.
+
+Jupyter implements a two-process model with a kernel and a client.
+
+The Notebook server is responsible for saving and loading the notebooks.
+
+The Jupyter architecture uses the NB convert tool to convert files to other formats.
+
+The Anaconda Navigator GUI can launch multiple applications on a local device.
+
+Jupyter environments in the Anaconda Navigator include JupyterLab and VS Code.
+
+You can download Jupyter environments separately from the Anaconda Navigator, but they may not be configured properly.
+
+The Anaconda Navigator GUI can launch multiple applications.
+
+Additional open-source Jupyter environments include JupyterLab, JupyterLite, VS Code, and Google Colaboratory. 
+
+JupyterLite is a browser-based tool.
+
+## RStudio and GitHub
+
+Congratulations! You have completed this module. At this point in the course, you know:
+
+The capabilities of R and its uses in Data Science.
+
+The RStudio interface for running R codes. 
+
+Popular R packages for Data Science.
+
+Popular data visualization packages in R.
+
+Plotting with the inbuilt R plot function.
+
+Plotting with ggplot.
+
+Adding titles and changing the axis names using the ggtitle and lab’s function.
+
+A Distributed Version Control System (DVCS) keeps track of changes to code, regardless of where it is stored. 
+
+Version control allows multiple users to work on the same codebase or repository, mirroring the codebase on their own computers if needed, while the distributed version control software helps manage synchronization amongst the various codebase mirrors.
+
+Repositories are storage structures that:
+
+    Store the code
+
+    Track issues and changes
+
+    Enable you to collaborate with others
+
+Git is one of the most popular distributed version control systems. 
+
+GitHub, GitLab and Bitbucket are examples of hosted version control systems.
+
+Branches are used to isolate changes to code. When the changes are complete, they can be merged back into the main branch.
+
+Repositories can be cloned to make it possible to work locally, then sync changes back to the original.
+
+[glossary](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/Glossary/Glossary.pdf)
