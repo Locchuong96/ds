@@ -20,6 +20,8 @@
 
 ### From Understanding to Prepration
 
+[glossary](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTVNraWxsc05ldHdvcmstRFMwMTAzRU4tQ291cnNlcmEvbGFicy9NMDJMMDFfTGVzc29uX1N1bW1hcnkubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzAwNjc0NzY5fQ.BIFvoZupolFCUZft2XnQBzHbsUViI_PZOnVd-IioGTM)
+
 ### From Modeling to Evaluation
 
 ## From Deployment to Feedback and Final Evaluation
