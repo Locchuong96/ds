@@ -8,6 +8,8 @@
 
 [practices](https://www.hackerrank.com/domains/sql)
 
+[How To Install PostgreSQL on Ubuntu 22.04](https://www.postgresql.org/download/linux/ubuntu/)
+
 [ How To Install MySQL on Ubuntu 22.04 LTS (Linux) ](https://www.youtube.com/watch?v=zRfI79BHf3k)
 
 [ How To Install PostgreSQL on Ubuntu 22.04 LTS (Linux) ](https://www.youtube.com/watch?v=tducLYZzElo)
