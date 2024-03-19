@@ -299,8 +299,28 @@ Lesson 3: Course Wrap Up
 
     Thanks from the Course Team
 
+# ploty
+
+[Plotly python](https://plotly.com/python/getting-started/)
+
+[Plotly graph objects with example](https://plotly.com/python/graph-objects/)
+
+[Plotly express](https://plotly.com/python/plotly-express/)
+
+[API reference](https://plotly.com/python-api-reference/)
+
+[Plotly cheatsheet](https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf)
+
+[Plotly community](https://community.plotly.com/c/plotly-python/5)
+
+[Related blogs]()
+
+[Open-source datasets](https://developer.ibm.com/exchanges/data/)
+
+
 [Cheat Sheet: Data Preprocessing Tasks in Pandas & Plot Libraries](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMS5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA2NzQzNDl9.eG3JP9YnTaEGzO6Um093UOf79nMcQcDFYF8t1RiLnbI)
 
 [Cheat Sheet : Plotting with Matplotlib using Pandas](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMi5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA2NzQzNTF9.Uh_8rmm4roplXsDYHJ3TWN5rXCAusVho0bIqynkdq9k)
 
+[Cheat Sheet: Maps, Waffles, WordCloud and Seaborn](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA2NzQzNDd9.1o4cM_zu78LRwj5j7Y40pVqUGCKPeQO-JEPm4W7BjSg)
 
