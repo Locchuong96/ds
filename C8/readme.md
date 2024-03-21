@@ -317,6 +317,23 @@ Lesson 3: Course Wrap Up
 
 [Open-source datasets](https://developer.ibm.com/exchanges/data/)
 
+# dash
+
+[Complete dash user guide](https://dash.plotly.com)
+
+[Dash core components](https://dash.plotly.com/dash-core-components)
+
+[Dash HTML components](https://dash.plotly.com/dash-html-components)
+
+[Dash community forum](https://community.plotly.com/c/python/25)
+
+[Related blogs](https://medium.com/plotly/tagged/dash)
+
+
+        python3 -m pip install packaging
+        python3 -m pip install pandas dash
+        pip3 install httpx==0.20 dash plotly
+
 
 [Cheat Sheet: Data Preprocessing Tasks in Pandas & Plot Libraries](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMS5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA2NzQzNDl9.eG3JP9YnTaEGzO6Um093UOf79nMcQcDFYF8t1RiLnbI)
 
